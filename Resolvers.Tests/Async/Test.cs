@@ -1,4 +1,6 @@
 using System;
+using System.Runtime.CompilerServices;
+using System.Threading;
 using System.Threading.Tasks;
 using Resolvers.Tests.Tests;
 using Xunit;
@@ -39,19 +41,18 @@ namespace Resolvers.Tests
         [Fact]
         public async Task MaybeTest()
         {
+            await Task.Delay(10000);
             var value = await AsyncFact();
+            _testOutputHelper.WriteLine(value.ToString());
         }
 
         [Fact]
         public async MaybeAwaitable<int> AsyncFact()
         {
-            await Task.Delay(10000);
-            var o = await Method1();
-            var t = await Method2();
-            // var nh = await Method4_Nth();
-            var th = await Method3();
-            _testOutputHelper.WriteLine(th.ToString());
-            return th;
+            await Task.Delay(100000);
+            var a = await Method2();
+            var b = await Method3();
+            return a + b;
         }
     }
 }

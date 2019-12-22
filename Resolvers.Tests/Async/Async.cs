@@ -1,4 +1,5 @@
 using System;
+using System.Diagnostics;
 using System.Reflection.Metadata.Ecma335;
 using System.Runtime.CompilerServices;
 using Resolvers.Tests.Tests;
@@ -33,6 +34,8 @@ namespace Resolvers.Tests
             {
                 if (IsCompleted)
                     throw new ArgumentException();
+                var st = new StackTrace();
+                
                 return _maybe.GetValue();
             }
 
@@ -48,8 +51,7 @@ namespace Resolvers.Tests
 
             public AsyncMaybeBuilder()
             {
-                Task = default;
-                // Task = new MaybeAwaitable<T>(new Maybe<A>.MaybeForStateBuilder<T>());
+                Task = new MaybeAwaitable<T>(new Maybe<T>.MaybeForStateBuilder<T>());
             }
 
             // public static MyAwaitableTaskMethodBuilder<T> Create() 
@@ -67,7 +69,7 @@ namespace Resolvers.Tests
 
             public void SetException(Exception exception)
             {
-                
+                throw exception;
             }
             // => this.Task.SetException(exception);
 
@@ -92,6 +94,12 @@ namespace Resolvers.Tests
                 where TAwaiter : ICriticalNotifyCompletion
                 where TStateMachine : IAsyncStateMachine
             {
+                if (stateMachine is AsyncMaybeBuilder)
+                {
+                    new AsyncTaskMethodBuilder().AwaitUnsafeOnCompleted(ref awaiter, ref stateMachine);
+                    return;
+                }
+
                 GenericAwaitOnCompleted(ref awaiter, ref stateMachine);
             }
 
@@ -101,6 +109,7 @@ namespace Resolvers.Tests
                 where TAwaiter : INotifyCompletion
                 where TStateMachine : IAsyncStateMachine
             {
+                
                 awaiter.OnCompleted(stateMachine.MoveNext);
             }
 
@@ -135,6 +144,10 @@ namespace Resolvers.Tests
                     _value = result;
                 }
 
+                public MaybeForStateBuilder()
+                {
+                    
+                }
                 public MaybeForStateBuilder(Maybe<T> maybe)
                 {
                     if (maybe)

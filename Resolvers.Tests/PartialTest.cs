@@ -1,3 +1,0 @@
-namespace Resolvers.Tests
-{
-}

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\admin\.nuget\packages\microsoft.net.test.sdk\16.0.1\build\netcoreapp1.0" t="Include">
+    <e p="C:\Users\evgeniy\.nuget\packages\microsoft.net.test.sdk\16.0.1\build\netcoreapp1.0" t="Include">
       <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
     </e>
-    <e p="C:\Users\admin\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
-    <e p="C:\Users\admin\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.utility.netcoreapp10.dll" t="Include" />
-    <e p="C:\Users\admin\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
-    <e p="C:\Users\admin\.Rider2019.3\config\scratches" t="IncludeRecursive" />
-    <e p="C:\Users\admin\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\admin\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Resolvers.Tests.1581281232.00" t="ExcludeRecursive" />
-    <e p="C:\Users\admin\RiderProjects\Resolvers.Tests" t="IncludeFlat">
+    <e p="C:\Users\evgeniy\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\evgeniy\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\evgeniy\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="C:\Users\evgeniy\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\evgeniy\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\evgeniy\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Resolvers.Tests.-45982148.00" t="ExcludeRecursive" />
+    <e p="C:\Users\evgeniy\Documents\AsyncAwait" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="Resolvers.Tests" t="IncludeRecursive">
         <e p="Async" t="Include">
@@ -25,9 +25,7 @@
             </e>
           </e>
         </e>
-        <e p="PartialTest.cs" t="Include" />
         <e p="Resolvers.Tests.csproj" t="IncludeRecursive" />
-        <e p="UnitTest1.cs" t="Include" />
       </e>
       <e p="Resolvers.Tests.sln" t="IncludeFlat" />
     </e>
