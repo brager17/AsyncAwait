@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <option name="showStatusBarWidget" value="true" />
+    <treeState key="project">
+      <selectedPath>
+        <pathElement>
+          <option name="myNodeId" value="helperText" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.LinkedTextDescriptor" />
+        </pathElement>
+      </selectedPath>
+    </treeState>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="476ecbc1-ccbc-4aea-bbf2-c4161c84fa0f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/286/TaskAwaiter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/16B/Task.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Resolvers.Tests/Async/Test.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Resolvers.Tests/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Resolvers.Tests/Async/Async.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/c9/2b9e67e6/INotifyCompletion.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Resolvers.Tests/Async.cs" />
+        <option value="$PROJECT_DIR$/Resolvers.Tests/Async/Test.cs" />
+        <option value="$PROJECT_DIR$/Resolvers.Tests/Async/Async.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VKmAOu1j6b756DlOgyZZJTtjPo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="476ecbc1-ccbc-4aea-bbf2-c4161c84fa0f" name="Default Changelist" comment="" />
+      <created>1570775698990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570775698990</updated>
+      <workItem from="1570775700193" duration="27000" />
+      <workItem from="1577010018279" duration="6048000" />
+      <workItem from="1577017697758" duration="6998000" />
+      <workItem from="1577025722475" duration="394000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="441" height="466" key="DebuggerActiveHint" timestamp="1577027053377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="441" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1577027053377" />
+    <state width="1323" height="267" key="GridCell.Tab.0.bottom" timestamp="1577027176538">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577027176538" />
+    <state width="1323" height="267" key="GridCell.Tab.0.center" timestamp="1577027176538">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577027176538" />
+    <state width="1323" height="267" key="GridCell.Tab.0.left" timestamp="1577027176537">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577027176537" />
+    <state width="1323" height="267" key="GridCell.Tab.0.right" timestamp="1577027176538">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577027176538" />
+    <state width="1323" height="267" key="GridCell.Tab.1.bottom" timestamp="1577027176538">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577027176538" />
+    <state width="1323" height="267" key="GridCell.Tab.1.center" timestamp="1577027176538">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577027176538" />
+    <state width="1323" height="267" key="GridCell.Tab.1.left" timestamp="1577027176538">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577027176538" />
+    <state width="1323" height="267" key="GridCell.Tab.1.right" timestamp="1577027176538">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577027176538" />
+    <state width="1323" height="267" key="GridCell.Tab.2.bottom" timestamp="1577027176538">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577027176538" />
+    <state width="1323" height="267" key="GridCell.Tab.2.center" timestamp="1577027176538">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1577027176538" />
+    <state width="1323" height="267" key="GridCell.Tab.2.left" timestamp="1577027176538">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1577027176538" />
+    <state width="1323" height="267" key="GridCell.Tab.2.right" timestamp="1577027176538">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1577027176538" />
+    <state width="1323" height="267" key="GridCell.Tab.3.bottom" timestamp="1577027176539">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577027176539" />
+    <state width="1323" height="267" key="GridCell.Tab.3.center" timestamp="1577027176539">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1577027176539" />
+    <state width="1323" height="267" key="GridCell.Tab.3.left" timestamp="1577027176538">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1577027176538" />
+    <state width="1323" height="267" key="GridCell.Tab.3.right" timestamp="1577027176539">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1577027176539" />
+    <state width="1323" height="267" key="GridCell.Tab.4.bottom" timestamp="1577027176539">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.4.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577027176539" />
+    <state width="1323" height="267" key="GridCell.Tab.4.center" timestamp="1577027176539">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.4.center/0.0.1366.728@0.0.1366.728" timestamp="1577027176539" />
+    <state width="1323" height="267" key="GridCell.Tab.4.left" timestamp="1577027176539">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.4.left/0.0.1366.728@0.0.1366.728" timestamp="1577027176539" />
+    <state width="1323" height="267" key="GridCell.Tab.4.right" timestamp="1577027176539">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.4.right/0.0.1366.728@0.0.1366.728" timestamp="1577027176539" />
+    <state width="1323" height="267" key="GridCell.Tab.5.bottom" timestamp="1577027176539">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.5.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577027176539" />
+    <state width="1323" height="267" key="GridCell.Tab.5.center" timestamp="1577027176539">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.5.center/0.0.1366.728@0.0.1366.728" timestamp="1577027176539" />
+    <state width="1323" height="267" key="GridCell.Tab.5.left" timestamp="1577027176539">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.5.left/0.0.1366.728@0.0.1366.728" timestamp="1577027176539" />
+    <state width="1323" height="267" key="GridCell.Tab.5.right" timestamp="1577027176539">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.5.right/0.0.1366.728@0.0.1366.728" timestamp="1577027176539" />
+    <state x="360" y="102" width="646" height="524" key="find.popup" timestamp="1577024102434">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="360" y="102" width="646" height="524" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1577024102434" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1577011557403">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1577011557403" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1577019333190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1577019333190" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Resolvers.Tests/Async/Test.cs</url>
+          <line>42</line>
+          <properties documentPath="$PROJECT_DIR$/Resolvers.Tests/Async/Test.cs" initialLine="42">
+            <startOffsets>
+              <option value="914" />
+            </startOffsets>
+            <endOffsets>
+              <option value="915" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Resolvers.Tests/Async/Async.cs</url>
+          <line>21</line>
+          <properties documentPath="$PROJECT_DIR$/Resolvers.Tests/Async/Async.cs" initialLine="21">
+            <startOffsets>
+              <option value="590" />
+            </startOffsets>
+            <endOffsets>
+              <option value="601" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Resolvers.Tests/Async/Async.cs</url>
+          <line>84</line>
+          <properties documentPath="$PROJECT_DIR$/Resolvers.Tests/Async/Async.cs" initialLine="81">
+            <startOffsets>
+              <option value="2460" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2461" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Resolvers.Tests/Async/Async.cs</url>
+          <line>93</line>
+          <properties documentPath="$PROJECT_DIR$/Resolvers.Tests/Async/Async.cs" initialLine="90">
+            <startOffsets>
+              <option value="2836" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2837" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Resolvers.Tests/Async/Async.cs</url>
+          <line>74</line>
+          <properties documentPath="$PROJECT_DIR$/Resolvers.Tests/Async/Async.cs" initialLine="71">
+            <startOffsets>
+              <option value="2083" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2084" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Resolvers.Tests/Async/Async.cs</url>
+          <line>68</line>
+          <properties documentPath="$PROJECT_DIR$/Resolvers.Tests/Async/Async.cs" initialLine="66">
+            <startOffsets>
+              <option value="1940" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1941" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Resolvers.Tests/Async/Async.cs</url>
+          <line>64</line>
+          <properties documentPath="$PROJECT_DIR$/Resolvers.Tests/Async/Async.cs" initialLine="62">
+            <startOffsets>
+              <option value="1853" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1854" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Resolvers.Tests/Async/Async.cs</url>
+          <line>59</line>
+          <properties documentPath="$PROJECT_DIR$/Resolvers.Tests/Async/Async.cs" initialLine="59">
+            <startOffsets>
+              <option value="1710" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1711" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Resolvers.Tests/Async/Async.cs</url>
+          <line>49</line>
+          <properties documentPath="$PROJECT_DIR$/Resolvers.Tests/Async/Async.cs" initialLine="49">
+            <startOffsets>
+              <option value="1297" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1298" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Resolvers.Tests/Async/Test.cs</url>
+          <line>47</line>
+          <properties documentPath="$PROJECT_DIR$/Resolvers.Tests/Async/Test.cs" initialLine="47">
+            <startOffsets>
+              <option value="1007" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1031" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Resolvers.Tests/Async/Async.cs</url>
+          <line>103</line>
+          <properties documentPath="$PROJECT_DIR$/Resolvers.Tests/Async/Async.cs" initialLine="103">
+            <startOffsets>
+              <option value="3223" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3266" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/286/TaskAwaiter.cs</url>
+          <line>85</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/286/TaskAwaiter.cs" initialLine="85">
+            <startOffsets>
+              <option value="3970" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4073" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/286/TaskAwaiter.cs</url>
+          <line>204</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/286/TaskAwaiter.cs" initialLine="204">
+            <startOffsets>
+              <option value="10847" />
+            </startOffsets>
+            <endOffsets>
+              <option value="10872" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/286/TaskAwaiter.cs</url>
+          <line>208</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/286/TaskAwaiter.cs" initialLine="208">
+            <startOffsets>
+              <option value="11126" />
+            </startOffsets>
+            <endOffsets>
+              <option value="11193" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/286/TaskAwaiter.cs</url>
+          <line>214</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/286/TaskAwaiter.cs" initialLine="214">
+            <startOffsets>
+              <option value="11366" />
+            </startOffsets>
+            <endOffsets>
+              <option value="11458" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/16B/Task.cs</url>
+          <line>2512</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/16B/Task.cs" initialLine="2512">
+            <startOffsets>
+              <option value="124015" />
+            </startOffsets>
+            <endOffsets>
+              <option value="124056" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
